@@ -2,10 +2,10 @@
 
 | dialog             |     window      |       note        |
 | ------------------ | --------------- | ----------------- |
-| no ajax contents   |  ajax contents  | [1]               |
+| no ajax contents   |  ajax contents  | [forum]([1] "xxxS")        |
 
 
-j
+
 
 
 
